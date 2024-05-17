@@ -1,2 +1,1 @@
-# nauka
-nauka
+Paragon z warzywniaka
